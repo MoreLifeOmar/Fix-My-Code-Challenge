@@ -1,1 +1,1 @@
-# Holbertonschool Fix My Code Challenge
+# Fix My Code Challenge
